@@ -175,37 +175,37 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\boscawinks-A_Minecraft-y_Discworld.html">
-			<img border="0" class="gallery__img" alt="A_Minecraft-y_Discworld by boscawinks" src="img\thumbnail\boscawinks-A_Minecraft-y_Discworld_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="A Minecraft-y Discworld by boscawinks" src="img\thumbnail\boscawinks-A_Minecraft-y_Discworld_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"A_Minecraft-y_Discworld" by boscawinks
+			"A Minecraft-y Discworld" by boscawinks
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\boscawinks-Basalt_Deltas_be_like.html">
-			<img border="0" class="gallery__img" alt="Basalt_Deltas_be_like by boscawinks" src="img\thumbnail\boscawinks-Basalt_Deltas_be_like_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Basalt Deltas be like by boscawinks" src="img\thumbnail\boscawinks-Basalt_Deltas_be_like_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Basalt_Deltas_be_like" by boscawinks
+			"Basalt Deltas be like" by boscawinks
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\boscawinks-Brewing_GUI_XL.html">
-			<img border="0" class="gallery__img" alt="Brewing_GUI_XL by boscawinks" src="img\thumbnail\boscawinks-Brewing_GUI_XL_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Brewing GUI XL by boscawinks" src="img\thumbnail\boscawinks-Brewing_GUI_XL_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Brewing_GUI_XL" by boscawinks
+			"Brewing GUI XL" by boscawinks
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\boscawinks-Give_that_back.html">
-			<img border="0" class="gallery__img" alt="Give_that_back by boscawinks" src="img\thumbnail\boscawinks-Give_that_back_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Give that back by boscawinks" src="img\thumbnail\boscawinks-Give_that_back_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Give_that_back" by boscawinks
+			"Give that back" by boscawinks
 		</div>
 	</div>
 	
@@ -220,37 +220,37 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\ChomChom-Jungle_Garden.html">
-			<img border="0" class="gallery__img" alt="Jungle_Garden by ChomChom" src="img\thumbnail\ChomChom-Jungle_Garden_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Jungle Garden by ChomChom" src="img\thumbnail\ChomChom-Jungle_Garden_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Jungle_Garden" by ChomChom
+			"Jungle Garden" by ChomChom
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Enzo_frsh-Northern_Landscape.html">
-			<img border="0" class="gallery__img" alt="Northern_Landscape by Enzo_frsh" src="img\thumbnail\Enzo_frsh-Northern_Landscape_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Northern Landscape by Enzo_frsh" src="img\thumbnail\Enzo_frsh-Northern_Landscape_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Northern_Landscape" by Enzo_frsh
+			"Northern Landscape" by Enzo_frsh
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Esorcism-Mini_Biomes_01_-_Plains.html">
-			<img border="0" class="gallery__img" alt="Mini_Biomes_01_-_Plains by Esorcism" src="img\thumbnail\Esorcism-Mini_Biomes_01_-_Plains_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Mini Biomes 01 - Plains by Esorcism" src="img\thumbnail\Esorcism-Mini_Biomes_01_-_Plains_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Mini_Biomes_01_-_Plains" by Esorcism
+			"Mini Biomes 01 - Plains" by Esorcism
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\firehart-Mountain_forest.html">
-			<img border="0" class="gallery__img" alt="Mountain_forest by firehart" src="img\thumbnail\firehart-Mountain_forest_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Mountain forest by firehart" src="img\thumbnail\firehart-Mountain_forest_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Mountain_forest" by firehart
+			"Mountain forest" by firehart
 		</div>
 	</div>
 	
@@ -265,73 +265,73 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\jackjt8-Omni-directional_mobility_gear.html">
-			<img border="0" class="gallery__img" alt="Omni-directional_mobility_gear by jackjt8" src="img\thumbnail\jackjt8-Omni-directional_mobility_gear_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Omni-directional mobility gear by jackjt8" src="img\thumbnail\jackjt8-Omni-directional_mobility_gear_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Omni-directional_mobility_gear" by jackjt8 - <a href="https://www.planetminecraft.com/project/shingeki-no-kyojin---mikasa-ackerman/">PMC</a> <a href=" https://www.planetminecraft.com/project/attack-on-titan-shiganshina-map/">PMC</a>
+			"Omni-directional mobility gear" by jackjt8 - <a href="https://www.planetminecraft.com/project/shingeki-no-kyojin---mikasa-ackerman/">PMC</a> <a href=" https://www.planetminecraft.com/project/attack-on-titan-shiganshina-map/">PMC</a>
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\jackjt8-The_Uncensored_Library.html">
-			<img border="0" class="gallery__img" alt="The_Uncensored_Library by jackjt8" src="img\thumbnail\jackjt8-The_Uncensored_Library_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="The Uncensored Library by jackjt8" src="img\thumbnail\jackjt8-The_Uncensored_Library_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"The_Uncensored_Library" by jackjt8 - <a href="https://www.uncensoredlibrary.com/en">Map Credit</a>
+			"The Uncensored Library" by jackjt8 - <a href="https://www.uncensoredlibrary.com/en">Map Credit</a>
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Jatizso-New_Mombasa_Kenya.html">
-			<img border="0" class="gallery__img" alt="New_Mombasa_Kenya by Jatizso" src="img\thumbnail\Jatizso-New_Mombasa_Kenya_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="New Mombasa Kenya by Jatizso" src="img\thumbnail\Jatizso-New_Mombasa_Kenya_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"New_Mombasa_Kenya" by Jatizso
+			"New Mombasa Kenya" by Jatizso
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Jayjayli-Greenfield_Sunset.html">
-			<img border="0" class="gallery__img" alt="Greenfield_Sunset by Jayjayli" src="img\thumbnail\Jayjayli-Greenfield_Sunset_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Greenfield Sunset by Jayjayli" src="img\thumbnail\Jayjayli-Greenfield_Sunset_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Greenfield_Sunset" by Jayjayli - <a href="https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/">PMC</a>
+			"Greenfield Sunset" by Jayjayli - <a href="https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/">PMC</a>
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Jayjayli-Nova_Celes_City.html">
-			<img border="0" class="gallery__img" alt="Nova_Celes_City by Jayjayli" src="img\thumbnail\Jayjayli-Nova_Celes_City_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Nova Celes City by Jayjayli" src="img\thumbnail\Jayjayli-Nova_Celes_City_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Nova_Celes_City" by Jayjayli - <a href="https://www.planetminecraft.com/project/nova-celes-city-the-futuristic-town-cit-du-swagg-download/">PMC</a>
+			"Nova Celes City" by Jayjayli - <a href="https://www.planetminecraft.com/project/nova-celes-city-the-futuristic-town-cit-du-swagg-download/">PMC</a>
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Jayjayli-Raindow_Corridor_2.html">
-			<img border="0" class="gallery__img" alt="Raindow_Corridor_2 by Jayjayli" src="img\thumbnail\Jayjayli-Raindow_Corridor_2_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Raindow Corridor 2 by Jayjayli" src="img\thumbnail\Jayjayli-Raindow_Corridor_2_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Raindow_Corridor_2" by Jayjayli
+			"Raindow Corridor 2" by Jayjayli
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\MadDog-City_of_Plexia.html">
-			<img border="0" class="gallery__img" alt="City_of_Plexia by MadDog" src="img\thumbnail\MadDog-City_of_Plexia_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="City of Plexia by MadDog" src="img\thumbnail\MadDog-City_of_Plexia_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"City_of_Plexia" by MadDog
+			"City of Plexia" by MadDog
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\OneCore-Terra_Celestis.html">
-			<img border="0" class="gallery__img" alt="Terra_Celestis by OneCore" src="img\thumbnail\OneCore-Terra_Celestis_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Terra Celestis by OneCore" src="img\thumbnail\OneCore-Terra_Celestis_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Terra_Celestis" by OneCore - <a href="https://www.planetminecraft.com/project/terra-celestis-5120-x-5120-multibiome/">PMC</a>
+			"Terra Celestis" by OneCore - <a href="https://www.planetminecraft.com/project/terra-celestis-5120-x-5120-multibiome/">PMC</a>
 		</div>
 	</div>
 	
@@ -346,46 +346,46 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\Peregrine05-Edge_of_a_Dark_Forest.html">
-			<img border="0" class="gallery__img" alt="Edge_of_a_Dark_Forest by Peregrine05" src="img\thumbnail\Peregrine05-Edge_of_a_Dark_Forest_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Edge of a Dark Forest by Peregrine05" src="img\thumbnail\Peregrine05-Edge_of_a_Dark_Forest_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Edge_of_a_Dark_Forest" by Peregrine05
+			"Edge of a Dark Forest" by Peregrine05
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Peregrine05-Misty_Mountains.html">
-			<img border="0" class="gallery__img" alt="Misty_Mountains by Peregrine05" src="img\thumbnail\Peregrine05-Misty_Mountains_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Misty Mountains by Peregrine05" src="img\thumbnail\Peregrine05-Misty_Mountains_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Misty_Mountains" by Peregrine05
+			"Misty Mountains" by Peregrine05
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Peregrine05-Mountain_Lake.html">
-			<img border="0" class="gallery__img" alt="Mountain_Lake by Peregrine05" src="img\thumbnail\Peregrine05-Mountain_Lake_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Mountain Lake by Peregrine05" src="img\thumbnail\Peregrine05-Mountain_Lake_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Mountain_Lake" by Peregrine05
+			"Mountain Lake" by Peregrine05
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Pylons-1.18_world.html">
-			<img border="0" class="gallery__img" alt="1.18_world by Pylons" src="img\thumbnail\Pylons-1.18_world_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="1.18 world by Pylons" src="img\thumbnail\Pylons-1.18_world_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"1.18_world" by Pylons
+			"1.18 world" by Pylons
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Pylons-Survival_world.html">
-			<img border="0" class="gallery__img" alt="Survival_world by Pylons" src="img\thumbnail\Pylons-Survival_world_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Survival world by Pylons" src="img\thumbnail\Pylons-Survival_world_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Survival_world" by Pylons
+			"Survival world" by Pylons
 		</div>
 	</div>
 	
@@ -400,19 +400,19 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\RavaPollo-Coral_Reef.html">
-			<img border="0" class="gallery__img" alt="Coral_Reef by RavaPollo" src="img\thumbnail\RavaPollo-Coral_Reef_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Coral Reef by RavaPollo" src="img\thumbnail\RavaPollo-Coral_Reef_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Coral_Reef" by RavaPollo
+			"Coral Reef" by RavaPollo
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\RavaPollo-Pandas_Gaze.html">
-			<img border="0" class="gallery__img" alt="Pandas_Gaze by RavaPollo" src="img\thumbnail\RavaPollo-Pandas_Gaze_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Pandas Gaze by RavaPollo" src="img\thumbnail\RavaPollo-Pandas_Gaze_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Pandas_Gaze" by RavaPollo
+			"Pandas Gaze" by RavaPollo
 		</div>
 	</div>
 	
@@ -427,91 +427,91 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\Redox-Greenfield_-_Minekea.html">
-			<img border="0" class="gallery__img" alt="Greenfield_-_Minekea by Redox" src="img\thumbnail\Redox-Greenfield_-_Minekea_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Greenfield - Minekea by Redox" src="img\thumbnail\Redox-Greenfield_-_Minekea_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Greenfield_-_Minekea" by Redox - <a href="https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/">PMC</a>
+			"Greenfield - Minekea" by Redox - <a href="https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/">PMC</a>
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Salamantic-Chicago_River.html">
-			<img border="0" class="gallery__img" alt="Chicago_River by Salamantic" src="img\thumbnail\Salamantic-Chicago_River_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Chicago River by Salamantic" src="img\thumbnail\Salamantic-Chicago_River_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Chicago_River" by Salamantic
+			"Chicago River" by Salamantic
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Salamantic-Distant_Metropolis.html">
-			<img border="0" class="gallery__img" alt="Distant_Metropolis by Salamantic" src="img\thumbnail\Salamantic-Distant_Metropolis_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Distant Metropolis by Salamantic" src="img\thumbnail\Salamantic-Distant_Metropolis_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Distant_Metropolis" by Salamantic
+			"Distant Metropolis" by Salamantic
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Salamantic-Hong_Kong's_Luminosity.html">
-			<img border="0" class="gallery__img" alt="Hong_Kong's_Luminosity by Salamantic" src="img\thumbnail\Salamantic-Hong_Kong's_Luminosity_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Hong Kong's Luminosity by Salamantic" src="img\thumbnail\Salamantic-Hong_Kong's_Luminosity_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Hong_Kong's_Luminosity" by Salamantic
+			"Hong Kong's Luminosity" by Salamantic
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Salamantic-Midnight_in_Downtown.html">
-			<img border="0" class="gallery__img" alt="Midnight_in_Downtown by Salamantic" src="img\thumbnail\Salamantic-Midnight_in_Downtown_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Midnight in Downtown by Salamantic" src="img\thumbnail\Salamantic-Midnight_in_Downtown_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Midnight_in_Downtown" by Salamantic
+			"Midnight in Downtown" by Salamantic
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Sander_Poelmans-Arctic_peak.html">
-			<img border="0" class="gallery__img" alt="Arctic_peak by Sander_Poelmans" src="img\thumbnail\Sander_Poelmans-Arctic_peak_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Arctic peak by Sander Poelmans" src="img\thumbnail\Sander_Poelmans-Arctic_peak_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Arctic_peak" by Sander_Poelmans
+			"Arctic peak" by Sander Poelmans
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Sander_Poelmans-ARTHAS.html">
-			<img border="0" class="gallery__img" alt="ARTHAS by Sander_Poelmans" src="img\thumbnail\Sander_Poelmans-ARTHAS_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="ARTHAS by Sander Poelmans" src="img\thumbnail\Sander_Poelmans-ARTHAS_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"ARTHAS" by Sander_Poelmans
+			"ARTHAS" by Sander Poelmans
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Sander_Poelmans-Land_of_plants.html">
-			<img border="0" class="gallery__img" alt="Land_of_plants by Sander_Poelmans" src="img\thumbnail\Sander_Poelmans-Land_of_plants_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Land of plants by Sander Poelmans" src="img\thumbnail\Sander_Poelmans-Land_of_plants_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Land_of_plants" by Sander_Poelmans
+			"Land of plants" by Sander Poelmans
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Sander_Poelmans-Mountain_castle.html">
-			<img border="0" class="gallery__img" alt="Mountain_castle by Sander_Poelmans" src="img\thumbnail\Sander_Poelmans-Mountain_castle_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Mountain castle by Sander Poelmans" src="img\thumbnail\Sander_Poelmans-Mountain_castle_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Mountain_castle" by Sander_Poelmans
+			"Mountain castle" by Sander Poelmans
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\SPAWNRYS-Angela_Balzac_-_Rakuen_Tsuihou.html">
-			<img border="0" class="gallery__img" alt="Angela_Balzac_-_Rakuen_Tsuihou by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Angela_Balzac_-_Rakuen_Tsuihou_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Angela Balzac - Rakuen Tsuihou by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Angela_Balzac_-_Rakuen_Tsuihou_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Angela_Balzac_-_Rakuen_Tsuihou" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/angela-balzac-rakuen-tsuihou-1-12-1-18-3d-model-art/">PMC</a>
+			"Angela Balzac - Rakuen Tsuihou" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/angela-balzac-rakuen-tsuihou-1-12-1-18-3d-model-art/">PMC</a>
 		</div>
 	</div>
 	
@@ -535,37 +535,37 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\SPAWNRYS-Cyberpunk_City_2.html">
-			<img border="0" class="gallery__img" alt="Cyberpunk_City_2 by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Cyberpunk_City_2_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Cyberpunk City 2 by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Cyberpunk_City_2_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Cyberpunk_City_2" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/cyberpunk-project-timelapse/">PMC</a>
+			"Cyberpunk City 2" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/cyberpunk-project-timelapse/">PMC</a>
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\SPAWNRYS-DEB_Off_Mineshield_First_Season.html">
-			<img border="0" class="gallery__img" alt="DEB_Off_Mineshield_First_Season by SPAWNRYS" src="img\thumbnail\SPAWNRYS-DEB_Off_Mineshield_First_Season_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="DEB_Off Mineshield First Season by SPAWNRYS" src="img\thumbnail\SPAWNRYS-DEB_Off_Mineshield_First_Season_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"DEB_Off_Mineshield_First_Season" by SPAWNRYS
+			"DEB_Off Mineshield First Season" by SPAWNRYS
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\SPAWNRYS-Kemono_Friends_-_Serval.html">
-			<img border="0" class="gallery__img" alt="Kemono_Friends_-_Serval by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Kemono_Friends_-_Serval_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Kemono Friends - Serval by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Kemono_Friends_-_Serval_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Kemono_Friends_-_Serval" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/kemono-friends-serval-statue/">PMC</a>
+			"Kemono Friends - Serval" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/kemono-friends-serval-statue/">PMC</a>
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\SPAWNRYS-Kremlin_Alfedov_Mineshield_First_Season.html">
-			<img border="0" class="gallery__img" alt="Kremlin_Alfedov_Mineshield_First_Season by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Kremlin_Alfedov_Mineshield_First_Season_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Kremlin Alfedov Mineshield First Season by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Kremlin_Alfedov_Mineshield_First_Season_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Kremlin_Alfedov_Mineshield_First_Season" by SPAWNRYS
+			"Kremlin Alfedov Mineshield First Season" by SPAWNRYS
 		</div>
 	</div>
 	
@@ -580,19 +580,19 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\SPAWNRYS-Subshield_Hills.html">
-			<img border="0" class="gallery__img" alt="Subshield_Hills by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Subshield_Hills_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Subshield Hills by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Subshield_Hills_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Subshield_Hills" by SPAWNRYS
+			"Subshield Hills" by SPAWNRYS
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\SPAWNRYS-Titania_City.html">
-			<img border="0" class="gallery__img" alt="Titania_City by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Titania_City_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Titania City by SPAWNRYS" src="img\thumbnail\SPAWNRYS-Titania_City_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Titania_City" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/titania-a-massive-modern-and-original-metropolis/">PMC</a>
+			"Titania City" by SPAWNRYS - <a href="https://www.planetminecraft.com/project/titania-a-massive-modern-and-original-metropolis/">PMC</a>
 		</div>
 	</div>
 	
@@ -607,21 +607,20 @@ Click an image to view a larger version of it.
 	
 	<div class=gallery__item>
 		<a href="image_html\Syphia-Pumpkin_Taiga.html">
-			<img border="0" class="gallery__img" alt="Pumpkin_Taiga by Syphia" src="img\thumbnail\Syphia-Pumpkin_Taiga_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Pumpkin Taiga by Syphia" src="img\thumbnail\Syphia-Pumpkin_Taiga_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Pumpkin_Taiga" by Syphia
+			"Pumpkin Taiga" by Syphia
 		</div>
 	</div>
 	
 	<div class=gallery__item>
 		<a href="image_html\Zak_Fynn-Winter_Ambience.html">
-			<img border="0" class="gallery__img" alt="Winter_Ambience by Zak_Fynn" src="img\thumbnail\Zak_Fynn-Winter_Ambience_TIMG.jpg">
+			<img border="0" class="gallery__img" alt="Winter Ambience by Zak Fynn" src="img\thumbnail\Zak_Fynn-Winter_Ambience_TIMG.jpg">
 		</a>
 		<div class="gallery__desc">
-			"Winter_Ambience" by Zak_Fynn
+			"Winter Ambience" by Zak Fynn
 		</div>
 	</div>
-				<!--GALLERY_END-->
+					<!--GALLERY_END-->
 </div>
-
