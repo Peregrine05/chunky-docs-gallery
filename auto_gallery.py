@@ -258,7 +258,7 @@ class AutoGallery:
     if gallery_end_num==0:
       print('missing <!--GALLERY_END--> tag in index.md')
       sys.exit()
-    end_of_file = i
+    end_of_file = len(lines)
     
     # store index.md start/end for later
     gallery_indexmd_start = lines[0:gallery_start_num]
